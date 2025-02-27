@@ -1,0 +1,1 @@
+Hoping for the frontend to be react based using typescript too!
